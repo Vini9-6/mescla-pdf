@@ -1,0 +1,2 @@
+PyPDF2
+# Tkinter já incluso no Python padrão
